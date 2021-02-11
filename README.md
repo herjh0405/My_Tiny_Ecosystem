@@ -18,7 +18,7 @@
 
 ## 데이터
 
-* 데이터 출처 :  환경빅데이터플랫폼 [link]((https://www.bigdata-environment.kr/user/data_market/list.do))
+* 데이터 출처 :  환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do)
 * 50만개 정도의 곤충, 포유류, 조류 등의 동물 데이터가 있습니다. [data](https://github.com/herjh0405/My_Tiny_Ecosystem/tree/master/data)
 * 그 종의 종명, 학명, 서식지 좌표 등의 데이터로 이루어져 있습니다.
 
