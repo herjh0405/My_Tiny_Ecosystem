@@ -14,8 +14,6 @@
 
 ---
 
-  
-
 ## 데이터
 
 * 데이터 출처 :  환경빅데이터플랫폼 [link]((https://www.bigdata-environment.kr/user/data_market/list.do))
@@ -28,13 +26,12 @@
 
 ---
 
-
-
 ## 좌표 변환
 
 * 국토지리정보원 표준 좌표계(중부원점 EPSG : 5186)인 좌표계를 GPS가 사용하는 좌표계인 EPSG : 4236로 변환 시켜 줌
   * PyProj 라이브러리 사용
   
+
 <img src = "https://user-images.githubusercontent.com/54921730/107644665-10b65100-6cbb-11eb-8c11-ffbc217ab57b.png" width = 1000 height = 500/>
 
 ---
@@ -46,6 +43,7 @@
     * 부산대학교와 3km 이내의 동물들을 찾아본다
       * haversine 라이브러리 사용
       
+
 <img src = "https://user-images.githubusercontent.com/54921730/107645442-047ec380-6cbc-11eb-8f68-f7d2f3b51dfc.png" width = 1000 height = 300/>
 
 <img src = "https://user-images.githubusercontent.com/54921730/107645865-9dadda00-6cbc-11eb-8cd2-257f61eb2f28.png" width = 1000 height = 200/>
