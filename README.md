@@ -32,7 +32,7 @@
   * PyProj 라이브러리 사용
   
 
-<img src = "https://user-images.githubusercontent.com/54921730/107644665-10b65100-6cbb-11eb-8c11-ffbc217ab57b.png" width = 1000 max-width = 100% height = 500/>
+<img src = "https://user-images.githubusercontent.com/54921730/107644665-10b65100-6cbb-11eb-8c11-ffbc217ab57b.png" width = 1000 max-width = 100% height = auto/>
 
 ---
 
@@ -44,9 +44,9 @@
       * haversine 라이브러리 사용
       
 
-<img src = "https://user-images.githubusercontent.com/54921730/107645442-047ec380-6cbc-11eb-8f68-f7d2f3b51dfc.png" width = 1000 max-width = 100% height = 300/>
+<img src = "https://user-images.githubusercontent.com/54921730/107645442-047ec380-6cbc-11eb-8f68-f7d2f3b51dfc.png" width = 1000 max-width = 100% height = auto/>
 
-<img src = "https://user-images.githubusercontent.com/54921730/107645865-9dadda00-6cbc-11eb-8cd2-257f61eb2f28.png" width = 1000 max-width = 100% height = 200/>
+<img src = "https://user-images.githubusercontent.com/54921730/107645865-9dadda00-6cbc-11eb-8cd2-257f61eb2f28.png" width = 1000 max-width = 100% height = auto/>
 
 ---
 
