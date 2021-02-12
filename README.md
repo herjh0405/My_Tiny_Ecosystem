@@ -22,7 +22,7 @@
 
 <img src = "https://user-images.githubusercontent.com/54921730/107643279-45290d80-6cb9-11eb-848e-4273c080134b.png" width = 1000 max-width = 100% height = 150/>
 
-<img src = "https://user-images.githubusercontent.com/54921730/107643337-5a05a100-6cb9-11eb-956d-3ea289a75d05.png" width = 1000 height = 260/>
+<img src = "https://user-images.githubusercontent.com/54921730/107643337-5a05a100-6cb9-11eb-956d-3ea289a75d05.png" width = 1000 max-width = 100% height = 260/>
 
 ---
 
@@ -32,7 +32,7 @@
   * PyProj 라이브러리 사용
   
 
-<img src = "https://user-images.githubusercontent.com/54921730/107644665-10b65100-6cbb-11eb-8c11-ffbc217ab57b.png" width = 1000 height = 500/>
+<img src = "https://user-images.githubusercontent.com/54921730/107644665-10b65100-6cbb-11eb-8c11-ffbc217ab57b.png" width = 1000 max-width = 100% height = 500/>
 
 ---
 
@@ -44,9 +44,9 @@
       * haversine 라이브러리 사용
       
 
-<img src = "https://user-images.githubusercontent.com/54921730/107645442-047ec380-6cbc-11eb-8f68-f7d2f3b51dfc.png" width = 1000 height = 300/>
+<img src = "https://user-images.githubusercontent.com/54921730/107645442-047ec380-6cbc-11eb-8f68-f7d2f3b51dfc.png" width = 1000 max-width = 100% height = 300/>
 
-<img src = "https://user-images.githubusercontent.com/54921730/107645865-9dadda00-6cbc-11eb-8cd2-257f61eb2f28.png" width = 1000 height = 200/>
+<img src = "https://user-images.githubusercontent.com/54921730/107645865-9dadda00-6cbc-11eb-8cd2-257f61eb2f28.png" width = 1000 max-width = 100% height = 200/>
 
 ---
 
@@ -60,7 +60,7 @@
 >   - 원하는 마커를 클릭하면, 종과 이름, 사진 시각화 
 >     - 더 알아보기 클릭 시 해당동물의 위키피디아 정보 제공
 
-<img src = "https://user-images.githubusercontent.com/54921730/107648544-cd121600-6cbf-11eb-8fe9-64aec9d5ff61.png" width = 1000 height = 400/>
+<img src = "https://user-images.githubusercontent.com/54921730/107648544-cd121600-6cbf-11eb-8fe9-64aec9d5ff61.png" width = 1000 max-width = 100% height = 400/>
 
-<img src = "https://user-images.githubusercontent.com/54921730/107647981-2168c600-6cbf-11eb-893e-3b5475ea3276.png" width = 1000 height = 400/>
+<img src = "https://user-images.githubusercontent.com/54921730/107647981-2168c600-6cbf-11eb-893e-3b5475ea3276.png" width = 1000 max-width = 100% height = 400/>
 
