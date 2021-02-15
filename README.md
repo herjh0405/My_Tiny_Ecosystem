@@ -61,11 +61,12 @@ Environmental Big Data Platform Innovation Service Idea Contest (2021.01.27 ~ 02
 * 유저가 원하는 경위도와 반경 입력
     * 부산대학교와 3km 이내의 동물들을 찾아본다
       * haversine 라이브러리 사용</br></br>
-      
+    
 * Enter the longitude and latitude and radius desired by the user
     * Search for animals within 3km of Pusan National University
       * Use the haversine library
       
+
 <img src = "https://user-images.githubusercontent.com/54921730/107645442-047ec380-6cbc-11eb-8f68-f7d2f3b51dfc.png" width = 1000 height = 300/>
 
 <img src = "https://user-images.githubusercontent.com/54921730/107645865-9dadda00-6cbc-11eb-8cd2-257f61eb2f28.png" width = 1000 height = 200/>
@@ -80,12 +81,10 @@ Environmental Big Data Platform Innovation Service Idea Contest (2021.01.27 ~ 02
 > - 🦅(조류/Bird) : 💜
 > - 🦝(포유류/Mammal) : 💚
 >   - 원하는 마커를 클릭하면, 종과 이름, 사진 시각화
->   - Visualize species, names and photos by clicking on the desired marker
 >     - 더 알아보기 클릭 시 해당동물의 위키피디아 정보 제공
->     - Click to learn more to provide Wikipedia information of the animal
 
-<img src = "https://user-images.githubusercontent.com/51190752/107869190-9bbb6500-6ece-11eb-8441-f167805a69d1.jpg" width = 1000 height = 350/>
+<img src = "https://user-images.githubusercontent.com/54921730/107952585-4b7ef880-6fdd-11eb-8689-bb93e05e10a1.png" width = 1000 height = 350/>
 
-<img src = "https://user-images.githubusercontent.com/51190752/107869200-b8f03380-6ece-11eb-9380-816feabad8ea.jpg" width = 1000 height = 400/>
+<img src = "https://user-images.githubusercontent.com/54921730/107953746-df04f900-6fde-11eb-8077-20661b56c4dd.png" width = 1000 height = 400/>
 
 <img src = "https://user-images.githubusercontent.com/51190752/107868979-a7a62780-6ecc-11eb-9bc0-f22bba459586.jpg" width = 1000 height = 500/>
