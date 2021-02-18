@@ -20,8 +20,6 @@
 * 50만개 정도의 곤충, 포유류, 조류 등의 동물 데이터가 있습니다. [data](https://github.com/herjh0405/My_Tiny_Ecosystem/tree/master/data)
 * 그 종의 종명, 학명, 서식지 좌표 등의 데이터로 이루어져 있습니다.
 
-<img src = "https://user-images.githubusercontent.com/54921730/107643279-45290d80-6cb9-11eb-848e-4273c080134b.png" width = 1000 max-width = 100% height = auto/>
-
 <img src = "https://user-images.githubusercontent.com/54921730/107643337-5a05a100-6cb9-11eb-956d-3ea289a75d05.png" width = 1000 max-width = 100% height = auto/>
 
 ---
@@ -46,8 +44,6 @@
 
 <img src = "https://user-images.githubusercontent.com/54921730/107645442-047ec380-6cbc-11eb-8f68-f7d2f3b51dfc.png" width = 1000 max-width = 100% height = auto/>
 
-<img src = "https://user-images.githubusercontent.com/54921730/107645865-9dadda00-6cbc-11eb-8cd2-257f61eb2f28.png" width = 1000 max-width = 100% height = auto/>
-
 ---
 
 ## 시각화
@@ -59,9 +55,5 @@
 >   - 🦝(포유류) : 💚
 >   - 원하는 마커를 클릭하면, 종과 이름, 사진 시각화 
 >     - 더 알아보기 클릭 시 해당동물의 위키피디아 정보 제공
-
-<img src = "https://user-images.githubusercontent.com/54921730/107952585-4b7ef880-6fdd-11eb-8689-bb93e05e10a1.png" width = 1000 height = auto/>
-
-<img src = "https://user-images.githubusercontent.com/54921730/107953746-df04f900-6fde-11eb-8077-20661b56c4dd.png" width = 1000 height = auto/>
 
 <img src = "https://user-images.githubusercontent.com/51190752/107868979-a7a62780-6ecc-11eb-9bc0-f22bba459586.jpg" width = 1000 height = auto/>
