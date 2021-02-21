@@ -19,15 +19,7 @@
 > * 파이썬 라이브러리 : folium, pyproj, haversine, decimal, wikipedia-API
 
 **[데이터 출처]**
-> * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do) - 동물들 서식지 및 정보 
-
----
-## 데이터 설명
-
-* 50만개 정도의 곤충, 포유류, 조류 등의 동물 데이터가 있습니다. [data](https://github.com/herjh0405/My_Tiny_Ecosystem/tree/master/data)
-* 그 종의 종명, 학명, 서식지 좌표 등의 데이터로 이루어져 있습니다.
-
-<img src = "https://user-images.githubusercontent.com/54921730/107643337-5a05a100-6cb9-11eb-956d-3ea289a75d05.png" width = 1000 max-width = 100% height = auto/>
+> * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do) - 동물들 종명, 학명, 서식지 좌표 등의 데이터 
 
 ---
 
