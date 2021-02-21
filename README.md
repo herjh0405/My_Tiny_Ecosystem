@@ -11,10 +11,12 @@
   - 우리집 주변의 동물, 조류, 곤충 등의 서식지와 정보를 알려줌
 
 -  팀원 : `허정훈` `구원혁` `민성훈` `진효정`
-> - 개발 : `허정훈` `민성훈`
-> - 기획 및 디자인 : `구원혁` `진효정`
 
 ---
+## 개발 환경
+> * 파이썬 : python3.8.3
+> * 파이썬 라이브러리 : folium, pyproj, haversine, decimal, wikipedia-API
+
 
 ## 데이터
 
@@ -48,7 +50,9 @@
 
 ---
 
-## 시각화
+## 서비스 설명
+
+<img src = "https://user-images.githubusercontent.com/51190752/107868979-a7a62780-6ecc-11eb-9bc0-f22bba459586.jpg" width = 1000 height = auto/>
 
 >   - 🕷(곤충) : 💛
 >   - 🐍(양서파충류) : 💙 
@@ -58,4 +62,4 @@
 >   - 원하는 마커를 클릭하면, 종과 이름, 사진 시각화 
 >     - 더 알아보기 클릭 시 해당동물의 위키피디아 정보 제공
 
-<img src = "https://user-images.githubusercontent.com/51190752/107868979-a7a62780-6ecc-11eb-9bc0-f22bba459586.jpg" width = 1000 height = auto/>
+
