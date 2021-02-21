@@ -33,6 +33,8 @@
 
 <img src = "https://user-images.githubusercontent.com/54921730/108377560-84220a80-7247-11eb-8d8f-01365061c030.png" width = 1000 max-width = 100% height = auto/>
 
+---
+
 ## 서비스 설명
 
 <img src = "https://user-images.githubusercontent.com/51190752/107868979-a7a62780-6ecc-11eb-9bc0-f22bba459586.jpg" width = 1000 height = auto/>
