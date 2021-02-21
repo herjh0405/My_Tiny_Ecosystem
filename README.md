@@ -29,7 +29,7 @@
 
 <img src = "https://user-images.githubusercontent.com/54921730/107643337-5a05a100-6cb9-11eb-956d-3ea289a75d05.png" width = 1000 max-width = 100% height = auto/>
 
-* 국토지리정보원 표준 좌표계(중부원점 EPSG : 5186)인 좌표계를 GPS가 사용하는 좌표계인 EPSG : 4236로 변환 시켜 줌
+* 국토지리정보원 표준 좌표계(중부원점 EPSG : 5186)를 GPS 좌표계인 EPSG : 4236로 변환 시켜 줌
 
 <img src = "https://user-images.githubusercontent.com/54921730/108377560-84220a80-7247-11eb-8d8f-01365061c030.png" width = 1000 max-width = 100% height = auto/>
 
