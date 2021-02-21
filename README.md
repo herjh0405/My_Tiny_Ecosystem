@@ -19,7 +19,7 @@
 > * 파이썬 라이브러리 : folium, pyproj, haversine, decimal, wikipedia-API
 
 **[데이터 출처]**
-> * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do) - 동물들 종명, 학명, 서식지 좌표 등의 데이터 
+> * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do)
 
 ---
 ## 데이터
