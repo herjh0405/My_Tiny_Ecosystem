@@ -22,6 +22,16 @@
 > * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do) - 동물들 종명, 학명, 서식지 좌표 등의 데이터 
 
 ---
+## 데이터
+
+* 50만개 정도의 곤충, 포유류, 조류 등의 동물 데이터가 있습니다. [data](https://github.com/herjh0405/My_Tiny_Ecosystem/tree/master/data)
+* 그 종의 종명, 학명, 서식지 좌표 등의 데이터로 이루어져 있습니다.
+
+<img src = "https://user-images.githubusercontent.com/54921730/107643337-5a05a100-6cb9-11eb-956d-3ea289a75d05.png" width = 1000 max-width = 100% height = auto/>
+
+* 국토지리정보원 표준 좌표계(중부원점 EPSG : 5186)인 좌표계를 GPS가 사용하는 좌표계인 EPSG : 4236로 변환 시켜 줌
+
+<img src = "https://user-images.githubusercontent.com/54921730/108377560-84220a80-7247-11eb-8d8f-01365061c030.png" width = 1000 max-width = 100% height = auto/>
 
 ## 서비스 설명
 
