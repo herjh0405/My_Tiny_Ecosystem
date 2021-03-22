@@ -4,7 +4,7 @@
 
 ## 개요
 
-환경빅데이터플랫폼 혁신서비스 아이디어 공모전 ( 2021.01.27 ~ 02.17 ) 
+환경빅데이터플랫폼 혁신서비스 아이디어 공모전 우수상 수상 ( 2021.01.27 ~ 03.09 ) 
 
 - 스마트폰 사용 시간이 점점 늘어가는 아이들을 위해 야외활동을 유발하는 서비스
 
@@ -19,7 +19,7 @@
 > * 파이썬 라이브러리 : folium, pyproj, haversine, decimal, wikipedia-API
 
 **[데이터 출처]**
-> * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do) - 동물들 종명, 학명, 서식지 좌표 등의 데이터 
+> * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do)
 
 ---
 ## 데이터
